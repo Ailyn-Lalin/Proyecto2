@@ -9,6 +9,9 @@ const double PORCENTAJEDESCUENTO=0.05;
 const double PORCENTAJEISV      =0.15;
 cout <<"Introduzca la factura";
 cin >>factura;
+
+cout <<"Introduzca el cliente";
+cin>>cliente;
 cout <<"Introduzca el cliente";
 cin>>cliente;
 cout <<"cuantos productos lleva";
